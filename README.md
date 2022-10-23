@@ -26,6 +26,9 @@ g++ Ques1.cpp -o Ques1 -std=c++11 -I/usr/include/python3.8 -lpython3.8
 ./Ques1
 ```
 
+![PRM output on a sample obstacle environment](CSV/bW1_PRM.png)
+
+
 # Ques 2
 Implementation of PRM Parameters can be changed by altering the declaration of RRT class.  To change the start and goal position modify : ```point goal, start;```, Search for this in the code.
 
