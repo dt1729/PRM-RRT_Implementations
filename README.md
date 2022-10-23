@@ -39,3 +39,4 @@ g++ Ques2.cpp -o Ques2 -std=c++11 -I/usr/include/python3.8 -lpython3.8
 #to run the RRT algorithm
 ./Ques2
 ```
+![RRT output on a sample obstacle environment](CSV/bW2_RRT.png)
